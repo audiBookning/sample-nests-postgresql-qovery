@@ -2,7 +2,7 @@
 
 - Just one App with No one service: a PostgreSQL DB.
 
-- Do not forget to change `.qovery.example.yml` with the relevant data and rename it to `.qovery.yml`
+- Do not forget to change `.qovery.example.yml` with the relevant data and rename it to `.qovery.yml`.
 
 - The `.env.example` file should be renamed to `.env`.
 

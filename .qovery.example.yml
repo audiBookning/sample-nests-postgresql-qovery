@@ -3,6 +3,10 @@ application:
   name: "myappname"
   project: "project-name"
   organization: "QoveryCommunity"
+databases:
+- type: "postgresql"
+  name: "dbName"
+  version: "dbVersion"
 routers:
 - name: "main-myappname"
   routes:
