@@ -7,3 +7,6 @@
 - The `.env.example` file should be renamed to `.env`.
 
 - No tests are implemented yet.
+
+License
+ISC © 2021 AudiBookning
