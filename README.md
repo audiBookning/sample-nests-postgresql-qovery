@@ -1,6 +1,6 @@
 # [NestJS](https://nestjs.com/) and [PostgreSQL](https://www.postgresql.org/) working with [Qovery](https://www.qovery.com/) Sample Code
 
-Part of a personal [list](https://github.com/audiBookning/sample-nestjs-codes) of random samples code for NestJS
+Part of a personal [list](https://github.com/audiBookning/samples-code-ressource-list) of random samples code
 
 - Just one App with No one service: a PostgreSQL DB.
 
